@@ -136,16 +136,13 @@ td::before {
   padding: 0;
 }
 
-.html::before {
+.html::before,
+.git::before {
   width: 60%;
 }
 
 .css::before {
   width: 50%;
-}
-
-.git::before {
-  width: 60%;
 }
 
 .coffee-chart::before {
@@ -266,6 +263,9 @@ footer p {
 
 .other-lab {
   padding: 20px;
+}
+.other-lab,
+.recreate {
   background-color: #719192;
   border-radius: 1em;
 }
