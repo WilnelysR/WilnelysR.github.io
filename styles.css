@@ -136,7 +136,6 @@ td::before {
   padding: 0;
 }
 
-<<<<<<< HEAD
 @keyframes fill {
   0% {
     width: 0%
@@ -150,11 +149,6 @@ td::before {
   animation-name: fill;
   animation-duration: 5s;
   width: 50%;
-=======
-.html::before,
-.git::before {
-  width: 60%;
->>>>>>> 62a0132e9ae5c9d375624969d9d34eeb610d6860
 }
 
 .css::before {
@@ -163,16 +157,12 @@ td::before {
   width: 40%;
 }
 
-<<<<<<< HEAD
 .git::before {
   animation-name: fill;
   animation-duration: 5s;
   width: 60%;
 }
 
-
-=======
->>>>>>> 62a0132e9ae5c9d375624969d9d34eeb610d6860
 .coffee-chart::before {
   animation-name: fill;
   animation-duration: 5s;
